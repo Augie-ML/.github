@@ -21,12 +21,20 @@
 <br>
 <br>
 
-> ***Augie ML Logo `.svg` file***
+> ***Augie ML Logo `.svg` file***<br>
 > https://github.com/Augie-ML/.github/blob/main/augie-ml.svg
 >
-> ***Augie ML Logo `.png` file***
+> ***Augie ML Logo `.png` file***<br>
 > https://github.com/Augie-ML/.github/blob/main/augie-ml.png
 
+<br>
+<br>
+<br>
+
+## Credit
+Augie ML's official logo was taken from @TwitterOSS (Twitter Open Source)
+[Tweemoji](https://twemoji.twitter.com/). Special thanks to the Twitter team
+for creating Tweemoji and open-sourcing it ♥
 
 <br>
 <br>
