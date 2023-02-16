@@ -34,7 +34,7 @@
 ## Credit
 Augie ML's official logo was taken from @TwitterOSS (Twitter Open Source)
 [Tweemoji](https://twemoji.twitter.com/). Special thanks to the Twitter team
-for creating Tweemoji and open-sourcing it ♥
+for creating it and open-sourcing it ♥
 
 <br>
 <br>
