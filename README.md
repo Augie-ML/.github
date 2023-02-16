@@ -28,14 +28,11 @@
 > https://github.com/Augie-ML/.github/blob/main/augie-ml.png
 
 <br>
-<br>
-<br>
 
 ## Credit
 Augie ML's official logo was taken from @TwitterOSS (Twitter Open Source)
 [Tweemoji](https://twemoji.twitter.com/). Special thanks to the Twitter team
 for creating it and open-sourcing it ♥
 
-<br>
 <br>
 <br>
