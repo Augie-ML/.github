@@ -19,3 +19,14 @@
 
 <br>
 <br>
+<br>
+
+> ***Augie ML Logo `.svg` file***
+> https://github.com/Augie-ML/.github/blob/main/augie-ml.svg
+>
+> ***Augie ML Logo `.png` file***
+> https://github.com/Augie-ML/.github/blob/main/augie-ml.png
+
+
+<br>
+<br>
