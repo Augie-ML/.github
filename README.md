@@ -12,8 +12,7 @@
 
 <p align="center">
   <b>
-  Augustana University<br>
-  Math + Machine Learning
+  Augie ML<br>
   </b>
 </p>
 
@@ -21,10 +20,10 @@
 <br>
 <br>
 
-> ***Augie ML Logo `.svg` file***<br>
+> ***Augie ML Logo `.svg`***<br>
 > https://github.com/Augie-ML/.github/blob/main/augie-ml.svg
 >
-> ***Augie ML Logo `.png` file***<br>
+> ***Augie ML Logo `.png`***<br>
 > https://github.com/Augie-ML/.github/blob/main/augie-ml.png
 
 <br>
